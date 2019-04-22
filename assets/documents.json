@@ -1,0 +1,58 @@
+{
+    "documents": [
+      {
+        "id":1,
+        "name":"Domicle",
+        "selected":false,
+        "isMandatory":{
+            "Domestic" :true ,
+            "International":true
+        }
+      },
+      {
+        "id":2,
+        "name":"BirthCertificate",
+        "selected":false,
+        "isMandatory":{
+            "Domestic" :true ,
+            "International":true
+        }
+      },   
+      {
+        "id":3,
+        "name":"Marksheets",
+        "selected":false,
+        "isMandatory":{
+            "Domestic" :true ,
+            "International":true
+        }
+      },  
+      {
+        "id":4,
+        "name":"PoliceClearance",
+        "selected":false,
+        "isMandatory":{
+            "Domestic" :false ,
+            "International":true
+        }
+      }, 
+      {
+        "id":5,
+        "name":"PassPort",
+        "selected":false,
+        "isMandatory":{
+            "Domestic" :false ,
+            "International":true
+        }
+      }, 
+      {
+        "id":6,
+        "name":"Declaration",
+        "selected":false,
+        "isMandatory":{
+            "Domestic" :true ,
+            "International":true
+        }
+      }  
+    ]
+  }

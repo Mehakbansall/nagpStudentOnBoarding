@@ -1,0 +1,62 @@
+{
+  "students": [
+    {
+      "studentName": "Mehak Bansal",
+      "category": "Domestic",
+      "fatherName": "Rakesh bansal",
+      "motherName": "Sunita bansal",
+      "dateOfBirth": "1992-06-28T18:30:00.000Z",
+      "lastClassScore": "88",
+      "id": 1
+    },
+    {
+      "studentName": "Jason",
+      "category": "International",
+      "fatherName": "Alex John",
+      "motherName": "Annie John",
+      "dateOfBirth": "1992-04-24T18:30:00.000Z",
+      "lastClassScore": "70",
+      "id": 2
+    },
+    {
+      "studentName": "Anna ",
+      "category": "Domestic",
+      "fatherName": "Watson",
+      "motherName": "Hezal",
+      "dateOfBirth": "1994-04-13T18:30:00.000Z",
+      "lastClassScore": "60",
+      "id": 3
+    },
+    {
+      "id": 7,
+      "studentName": "Jason",
+      "category": "International",
+      "fatherName": "Rishabh",
+      "motherName": "Rashi",
+      "dateOfBirth": "2019-04-23T18:30:00.000Z",
+      "lastClassScore": "45"
+    },
+    {
+      "id": 8,
+      "studentName": "Mehak",
+      "category": "International",
+      "document": null,
+      "fatherName": "SCASC",
+      "motherName": "ASCAC",
+      "dateOfBirth": "2019-04-24T18:30:00.000Z",
+      "lastClassScore": "23",
+      "documents": []
+    },
+    {
+      "id": 9,
+      "studentName": "Anna",
+      "category": "International",
+      "document": null,
+      "fatherName": "Rakesh bansal",
+      "motherName": "Sunita bansal",
+      "dateOfBirth": "2019-04-24T18:30:00.000Z",
+      "lastClassScore": "23",
+      "documents": []
+    }
+  ]
+}
